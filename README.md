@@ -1,2 +1,2 @@
 # com.doors.films.tv
-Doors app: Files &amp; TV
+Doors app: Films &amp; TV
